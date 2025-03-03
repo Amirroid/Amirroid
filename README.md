@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Amirreza Gholami! 👋</h1>  
 
-<!--
-**Amirroid/Amirroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 <strong>Android Developer</strong> | Kotlin | Jetpack Compose  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 About Me  
+- 💡 Passionate about learning new technologies and sharing knowledge.  
+- 🔧 Developing libraries and open-source projects.  
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirrezagholami/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/theamirrezagh">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
