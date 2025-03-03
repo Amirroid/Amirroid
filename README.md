@@ -11,8 +11,10 @@
 ---
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Amirroid&show_icons=true&theme=radical" alt="GitHub Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirroid&layout=compact&theme=radical" alt="Top Languages" />  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirroid&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirroid&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
