@@ -1,18 +1,17 @@
 <h1>Hi, I'm Amirreza Gholami! 👋</h1>  
 
-🚀 Android Developer | Kotlin & Jetpack Compose Enthusiast  
+💻 Just a Developer Who Has No Clue About Android  
 
 ---
 
 ## 🔹 About Me  
 
-Hey! I'm Amirreza – a curious Android developer who enjoys building things that *actually work*. I mostly work with Kotlin and Jetpack Compose, and I’m always trying to keep things clean, simple, and modern.
+Hey! I'm Amirreza — I really love learning new things...  
+but for some reason, I just can't.  
 
-Sometimes I dive into side projects just to try out new ideas or explore how stuff works under the hood. When something feels reusable, I turn it into a small library so others can benefit too — but mostly, I just like solving problems.
+That's it. That's the bio.
 
 ---
-
-## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirroid&layout=compact&theme=github_dark_dimmed" height="165" />
@@ -20,7 +19,7 @@ Sometimes I dive into side projects just to try out new ideas or explore how stu
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Find Me Somewhere  
 
 <a href="https://www.amirroid.ir">
   <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
@@ -30,4 +29,4 @@ Sometimes I dive into side projects just to try out new ideas or explore how stu
 </a>  
 <a href="https://t.me/theamirrezagh">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
+</a>  
