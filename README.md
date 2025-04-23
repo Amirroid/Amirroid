@@ -13,12 +13,6 @@ That's it. That's the bio.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirroid&layout=compact&theme=github_dark_dimmed" height="165" />
-</p>
-
----
-
 ## Find Me Somewhere  
 
 <a href="https://www.amirroid.ir">
