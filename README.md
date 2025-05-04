@@ -2,7 +2,7 @@
 
 Just a Developer Who Has No Clue About Android  
 
----
+
 
 ## About Me  
 
