@@ -1,12 +1,10 @@
-<h1>Hi, I'm Amirreza Gholami! 👋</h1>  
+## Hi, I'm Amirreza Gholami!
 
-Just a Developer Who Has No Clue About Android  
+Just a developer who honestly has no clue about Android.
 
+## About Me
 
-
-## About Me  
-
-Hey! I'm Amirreza — I really love learning new things...  
-but for some reason, I just can't.  
+I love learning new stuff...
+but for some reason, I just can't.
 
 That's it. That's the bio.
