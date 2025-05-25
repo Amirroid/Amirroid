@@ -1,4 +1,4 @@
-## Hi, I'm Amirreza Gholami!
+## Hi, I'm Amirreza Gholami
 
 Just a developer who honestly has no clue about Android.
 
